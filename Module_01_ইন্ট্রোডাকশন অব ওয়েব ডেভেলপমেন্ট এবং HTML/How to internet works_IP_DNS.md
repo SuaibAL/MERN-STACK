@@ -4,8 +4,7 @@
 > **মডিউল ১: [Foundation] ইন্ট্রোডাকশন অব ওয়েব ডেভেলপমেন্ট এবং HTML**-এর অন্তর্গত এই টপিকগুলো একটানা একটা গল্পে বাঁধা হয়েছে:
 > *How the internet works · What is an IP Address · What is DNS & How DNS Works · VS Code Setup for HTML · Structural Tags · Text Formatting · List · Link · Image and Multimedia · Table · Form · Semantic Tags · Scripting · Interactive Element · Special Purpose Tags · Advance web page structure*
 >
-> 📖 **List, Table, Form আর Multimedia-র গভীর আলোচনা** আছে পরের ফাইলে: [lists-table-form-multimedia-details-and-dialog-elements.md](./lists-table-form-multimedia-details-and-dialog-elements.md)। এই ফাইলে ওগুলোর **ভিত্তি (foundation)** শিখবো।
->
+
 > 💡 **কোড পড়ার নিয়ম:** HTML কোডে "ভেরিয়েবল" বলতে বুঝবো — `id`, `class`, `name`, `src`, `href`-এর মতো attribute-এর মান, আর JavaScript-এর `const`/`let`। প্রতিটার পাশে **কমেন্টে লেখা আছে সেটা কেন ব্যবহার করা হয়েছে**।
 
 ---

@@ -29,7 +29,6 @@
 - [১৫. বিশেষ যন্ত্রপাতি: Special Purpose Tags](#১৫-বিশেষ-যন্ত্রপাতি-special-purpose-tags)
 - [১৬. পুরো বাড়ির নকশা: Advance Web Page Structure](#১৬-পুরো-বাড়ির-নকশা-advance-web-page-structure)
 - [১৭. সারসংক্ষেপ ও Practice আইডিয়া](#১৭-সারসংক্ষেপ-ও-practice-আইডিয়া)
-- [📌 GitHub-এ যেভাবে রাখবেন](#-github-এ-যেভাবে-রাখবেন)
 
 ---
 

@@ -3,9 +3,7 @@
 > এই ডকুমেন্টটা আগের ফাইলের **সরাসরি ধারাবাহিকতা** — আর এটাও **গল্প আকারে** লেখা, যাতে কিছু মুখস্থ করতে না হয়।
 > **মডিউল ১: [Foundation] ইন্ট্রোডাকশন অব ওয়েব ডেভেলপমেন্ট এবং HTML**-এর অন্তর্গত এই টপিকগুলোর গভীর আলোচনা:
 > *Lists (`ol`, `ul`, `dl`) · Table element (`caption`, `colgroup`, `thead`, `tbody`, `tfoot`) · Form element (`input`, `button`, `checkbox`, `radio`, `select`, `label`, `fieldset`) · Multimedia element (`image`, `video`, `audio`) · Details and summary element · Dialog element (`dialog`)*
->
-> 📖 আগের ফাইল: [how-the-internet-works-to-advance-web-page-structure.md](./how-the-internet-works-to-advance-web-page-structure.md) — সেখানে Internet, IP, DNS, VS Code, HTML-এর কাঠামো, Text Formatting, Link, Semantic Tags, Scripting ইত্যাদি আছে। সেই ফাইলের **ভিত্তি (foundation)**-টুকু ধরে এখানে আমরা প্রতিটা বিষয়ে **গভীরে** যাবো।
->
+
 > 💡 **কোড পড়ার নিয়ম:** HTML কোডে "ভেরিয়েবল" বলতে বুঝবো — `id`, `class`, `name`, `value`, `for`-এর মতো attribute-এর মান, আর JavaScript-এর `const`/`let`। প্রতিটার পাশে **কমেন্টে লেখা আছে সেটা কেন ব্যবহার করা হয়েছে**।
 
 ---

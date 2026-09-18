@@ -18,7 +18,7 @@
 - [৫. ভাঁজ-করা ড্রয়ার: Details ও Summary element](#৫-ভাঁজ-করা-ড্রয়ার-details-ও-summary-element)
 - [৬. দরজার বেল আর জরুরি ঘোষণা: Dialog element (`<dialog>`)](#৬-দরজার-বেল-আর-জরুরি-ঘোষণা-dialog-element-dialog)
 - [৭. সারসংক্ষেপ ও Practice আইডিয়া](#৭-সারসংক্ষেপ-ও-practice-আইডিয়া)
-- [📌 GitHub-এ যেভাবে রাখবেন](#-github-এ-যেভাবে-রাখবেন)
+
 
 ---
 

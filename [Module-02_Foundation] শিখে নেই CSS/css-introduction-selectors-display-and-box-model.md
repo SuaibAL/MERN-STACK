@@ -1,7 +1,5 @@
 # 🎨 স্বাদ-বাড়ির ইন্টেরিয়র ডিজাইনার: CSS-এর প্রথম পাঠ (Introduction থেকে Box Model)
 
-> এই ডকুমেন্টটাও আগের ফাইলগুলোর মতোই **গল্প আকারে** লেখা, যাতে concept গুলো মুখস্থ না হয়ে মাথায় গেঁথে যায়।
-> **মডিউল:** [Foundation] শিখে নেই CSS
 > **এই ফাইলের টপিক:** CSS Introduction | How to Add CSS | Selectors (id, class, attribute) | Display: Block, Inline-Block, Inline | Background Colors, Height, Width, Min-Height, Min-Width | Box Model | Margin, Padding, Border Properties
 
 
